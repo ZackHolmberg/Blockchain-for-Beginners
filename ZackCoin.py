@@ -1,6 +1,4 @@
-# Name: Zack Holmberg  
-# Student #: 7777823  
-# UserID: holmbezt
+
 # Credit to this article: https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d
 # which provided direction and some code snippets on how to go about implementing a very basic cryptocurrency
 
